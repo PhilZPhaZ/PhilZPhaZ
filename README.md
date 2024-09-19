@@ -16,4 +16,4 @@ I have done several projects:
 - A complete redesign of how very small numbers are stored in computers
 
 ## 🛠 Skills
-Python 🐍 and Rust 🦀
+Python 🐍 , Rust 🦀 and Lua 🌙
