@@ -11,9 +11,9 @@ I started programming 4 years ago and have acquired a solid grounding in Python 
 
 ## Projects
 I have done several projects:
-- Conway's Game of Life in Python
+- Conway's Game of Life in Python and Lua
 - Fractal visualizers (Mandelbrot and Julia sets) in Rust
-- A complete redesign of how very small numbers are stored in computers
+- A complete redesign of how very small numbers are stored in computers in Rust
 
 ## 🛠 Skills
 Python 🐍 , Rust 🦀 and Lua 🌙
