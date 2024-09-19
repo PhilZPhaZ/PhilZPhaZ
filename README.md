@@ -1,7 +1,7 @@
 
 # Hi, I'm Phileas! 👋
 ## 🚀 About Me
-My name is Phileas Bour and I am currently in my last year of high school. And I'm french !
+My name is Phileas Bour and I am currently in my first year of university in a joint degree (mathematics and physics). And I'm french !
 
 
 I started programming 4 years ago and have acquired a solid grounding in Python and am currently learning Rust.
